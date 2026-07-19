@@ -543,7 +543,7 @@ footer p {
   }
 
   .hero-inner {
-    gap: 52px;
+    gap: 25px;
   }
 
   h1 {
@@ -559,14 +559,9 @@ footer p {
   }
 
    .hero-logo {
-    min-height: 330px;
-    padding: 35px 25px;
-    border-radius: 20px;
-  }
 
-  .hero-logo img {
-    max-width: 320px;
-    max-height: 320px;
+    display: none;
+
   }
 
   .blend-image::before {
